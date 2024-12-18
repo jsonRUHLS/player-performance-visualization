@@ -1,3 +1,4 @@
+
 # Player Performance Visualization
 
 ## Overview
@@ -19,13 +20,17 @@ This project visualizes a player's scoring trends across 10 games, highlighting 
 
 ## How to Run
 1. Clone the repository:
-`git clone https://github.com/jsonRUHLS/player-performance-visualization.git`
-
+   ```
+   git clone https://github.com/jsonRUHLS/player-performance-visualization.git
+   ```
 2. Install dependencies:
-`pip install -r requirements.txt`
-
+   ```
+   pip install -r requirements.txt
+   ```
 3. Run the script:
-`python generate_visualization.py`
+   ```
+   python generate_visualization.py
+   ```
 
 ## Code Structure
 - **code/**: Python scripts for data processing and visualization.
@@ -37,4 +42,3 @@ This project visualizes a player's scoring trends across 10 games, highlighting 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
