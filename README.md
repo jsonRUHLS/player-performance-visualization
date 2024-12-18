@@ -28,7 +28,7 @@ This project visualizes a player's scoring trends across 10 games, highlighting 
 
    ```bash
    git clone https://github.com/jsonRUHLS/player-performance-visualization.git
-   ```bash
+   ```
 
 2. Install dependencies:
 
