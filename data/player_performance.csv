@@ -1,11 +1,11 @@
-Game,Goals,Milestone
-Game 1,0,No
-Game 2,1,No
-Game 3,0,No
-Game 4,2,Yes
-Game 5,2,Yes
-Game 6,3,Yes
-Game 7,2,Yes
-Game 8,1,No
-Game 9,0,No
-Game 10,2,Yes
+Sport,League,Team,Player,Game,Touchdowns,Milestone
+Football,NFL,49ers,George Kittle,Game 1,1,No
+Football,NFL,49ers,George Kittle,Game 2,2,Yes
+Football,NFL,49ers,George Kittle,Game 3,1,No
+Football,NFL,49ers,George Kittle,Game 4,2,Yes
+Football,NFL,49ers,George Kittle,Game 5,2,Yes
+Football,NFL,49ers,George Kittle,Game 6,0,No
+Football,NFL,49ers,George Kittle,Game 7,3,Yes
+Football,NFL,49ers,George Kittle,Game 8,2,Yes
+Football,NFL,49ers,George Kittle,Game 9,1,No
+Football,NFL,49ers,George Kittle,Game 10,2,Yes
