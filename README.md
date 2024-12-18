@@ -39,6 +39,7 @@ This project visualizes a player's scoring trends across 10 games, highlighting 
 3. Run the script:
 
    ```python
+   cd code
    python generate_visualization.py
    ```
 
